@@ -2,3 +2,7 @@ Nikita is cool developer!
 Add two strings:
 - 1
 - 2
+Add three strings:
+- 1
+- 2
+- 3
