@@ -1,3 +1,10 @@
 Nikita is cool developer!
 Add string 2
 Moscow - big sity!
+Add two strings:
+- 1
+- 2
+Add three strings:
+- 1
+- 2
+- 3

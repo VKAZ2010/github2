@@ -2,3 +2,7 @@ My world is wild!
 String 2
 String 3
 String 4
+Add three strings:
+- 1
+- 2
+- 3
