@@ -1,1 +1,2 @@
 Nikita is cool developer!
+Add string 2
