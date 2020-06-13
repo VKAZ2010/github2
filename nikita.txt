@@ -1,1 +1,4 @@
 Nikita is cool developer!
+Add two strings:
+- 1
+- 2
