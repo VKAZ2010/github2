@@ -3,8 +3,7 @@ Add string 2
 Moscow - big sity!
 Add two strings:
 - 1
-- 2
+- 2.1
 Add three strings:
 - 1
 - 2
-- 3
